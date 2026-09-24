@@ -3,7 +3,7 @@
 import { createContext, useContext, useEffect, useMemo, useState } from "react";
 
 const CartContext = createContext(null);
-const STORAGE_KEY = "eathil_cart_v1";
+const STORAGE_KEY = "pickabook_cart_v1";
 
 export function CartProvider({ children }) {
   const [items, setItems] = useState([]); // [{ id, title, price, image_url, quantity }]

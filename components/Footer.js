@@ -5,7 +5,7 @@ export default function Footer() {
         
         {/* Column 1: Brand */}
         <div>
-          <h2 className="text-xl font-serif tracking-widest text-gray-900 mb-4">EATHIL</h2>
+          <h2 className="text-xl font-serif tracking-widest text-gray-900 mb-4">PickaBook</h2>
           <p className="text-sm text-gray-600 leading-relaxed">
             Curated eBooks, panoramic wall assets, manga, and language learning tools.
           </p>
@@ -34,9 +34,9 @@ export default function Footer() {
           </ul>
         </div>
 
-        {/* Column 4: Eathil Assurance */}
+        {/* Column 4: PickaBook Assurance */}
         <div>
-          <h3 className="text-xs font-semibold uppercase tracking-wider text-gray-900 mb-4">Eathil Assurance</h3>
+          <h3 className="text-xs font-semibold uppercase tracking-wider text-gray-900 mb-4">PickaBook Assurance</h3>
           <ul className="space-y-2 text-sm text-gray-600">
             <li>Instant Secure Downloads</li>
             <li>Shopify Storefront Compatible</li>

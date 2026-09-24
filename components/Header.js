@@ -13,7 +13,7 @@ export default function Header({ categories }) {
     <header className="sticky top-0 z-50 border-b border-line bg-paper/95 backdrop-blur">
       <div className="mx-auto flex max-w-content items-center justify-between px-6 py-5 lg:px-10">
         <Link href="/" className="font-display text-[22px] tracking-wideish text-ink">
-          EATHIL <span className="text-clay-dark">DIGITAL</span>
+          PickaBook <span className="text-clay-dark">DIGITAL</span>
         </Link>
 
         {/* Desktop nav */}
