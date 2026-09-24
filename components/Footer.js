@@ -49,7 +49,7 @@ export default function Footer() {
       {/* Bottom Bar */}
       <div className="max-w-7xl mx-auto border-t border-gray-200 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center text-xs text-gray-500">
         <p>&copy; 2026 PickaBook. All rights reserved.</p>
-        <p className="mt-4 md:mt-0">Designed with Minimalist Luxury Aesthetic</p>
+        <p className="mt-4 md:mt-0">Read. Grow. Inspire.</p>
       </div>
     </footer>
   );
