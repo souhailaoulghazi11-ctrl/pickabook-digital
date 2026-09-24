@@ -33,7 +33,7 @@ export default function Hero() {
 
         {/* [INSERT_HERO_IMAGE_URL] */}
         <PlaceholderImage
-          src="[INSERT_HERO_IMAGE_URL]"
+          src="/pro2.jpg"
           alt="Featured PickaBook cover"
           ratio="aspect-[5/4]"
           className="w-full"
